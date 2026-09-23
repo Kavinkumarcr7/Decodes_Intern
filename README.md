@@ -1,4 +1,4 @@
-# decodelabs_tasks
+# Decodelabs_tasks
 # DecodeLabs Data Analytics Internship
 
 This repository contains the projects completed during my DecodeLabs Data Analytics Internship.
